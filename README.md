@@ -37,7 +37,7 @@ An AI-powered web tool that explains any code in plain English — built with **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-code-explainer.git
+git clone (https://github.com/jatin8318/AI-Code-Explainer.git)
 cd ai-code-explainer
 ```
 
