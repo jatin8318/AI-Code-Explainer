@@ -107,7 +107,7 @@ ai-code-explainer/
 
 ## 📸 Screenshot
 
-> Coming soon — add a screenshot of your running app here!
+![AI Code Explainer Screenshot](assets/screenshot.png)(assets/screenshot(1).png)
 
 ---
 
