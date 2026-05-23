@@ -105,10 +105,6 @@ ai-code-explainer/
 
 ---
 
-## 📸 Screenshot
-
-![AI Code Explainer Screenshot](assets/screenshot.png)(assets/screenshot(1).png)
-
 ---
 
 ## 🤝 Contributing
@@ -125,9 +121,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**  
-📧 your@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/YOUR_USERNAME)
+**Navneet Yadav**  
+
 
 ---
 
